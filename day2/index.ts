@@ -2,7 +2,7 @@ import * as fs from 'fs'
 
 const input = fs.readFileSync(`${__dirname}/input.txt`).toString().trim()
 
-// constellation
+// constraints
 const maxRed = 12
 const maxGreen = 13
 const maxBlue = 14
